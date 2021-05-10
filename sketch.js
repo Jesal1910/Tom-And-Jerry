@@ -3,12 +3,11 @@ var cat,catImg1,catImg2,catImg3;
 var mouse,mouseImg1,mouseImg2;
 function preload() {
     //load the images here
-    bgImg=loadImage("images/garden.png")
-    catImg1=loadImage("images/cat1.png")
-    catImg2=loadAnimation("images/cat2.png")
-    //catImg3=loadAnimation("images/cat4.png")
-    mouseImg1=loadImage("images/mouse1.png")
-    mouseImg2=loadAnimation("images/mouse2.png")
+    bgImg=loadImage("garden.png")
+    catImg1=loadImage("cat1.png")
+    catImg2=loadAnimation("cat2.png")
+    mouseImg1=loadImage("mouse1.png")
+    mouseImg2=loadAnimation("mouse2.png")
  
 }
 
